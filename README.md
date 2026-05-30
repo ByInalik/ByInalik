@@ -6,14 +6,14 @@ A junior programmer on the path to becoming a Full-Stack Developer. I am current
 
 ### Languages and Tools
 
-p align=left
-  img src=httpsraw.githubusercontent.comdeviconsdeviconmastericonshtml5html5-original-wordmark.svg alt=html5 width=50 height=50
-  img src=httpsraw.githubusercontent.comdeviconsdeviconmastericonscss3css3-original-wordmark.svg alt=css3 width=50 height=50
-  img src=httpsraw.githubusercontent.comdeviconsdeviconmastericonsjavascriptjavascript-original.svg alt=javascript width=50 height=50
-  img src=httpsraw.githubusercontent.comdeviconsdeviconmastericonspythonpython-original.svg alt=python width=50 height=50
-  img src=httpswww.vectorlogo.zonelogosgit-scmgit-scm-icon.svg alt=git width=50 height=50
-  img src=httpsraw.githubusercontent.comdeviconsdeviconmastericonsphotoshopphotoshop-line.svg alt=photoshop width=50 height=50
-p
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="50" height="50"/>
+</p>
 
 ---
 
@@ -22,4 +22,3 @@ p
 - [ ] Master JavaScript logic and manipulation of the DOM
 - [ ] Build stable and functional responsive web pages
 - [ ] Complete my first repository integration with Git and GitHub
-
