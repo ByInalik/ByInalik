@@ -12,7 +12,7 @@ A junior programmer on the path to becoming a Full-Stack Developer. I am current
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="50" height="50"/>
+  <img src="https://jsorg.gallerycdn.vsassets.io/extensions/jsorg/adobe-photoshop-icon-theme/1.0.1/1620739343355/Microsoft.VisualStudio.Services.Icons.Default" alt="photoshop" width="50" height="50"/>
 </p>
 
 ---
