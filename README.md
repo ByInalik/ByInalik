@@ -1,6 +1,6 @@
 ### Hi, I'm Inalik 👋
 
-A junior programmer on the path to becoming a Full-Stack Developer. I am currently learning and strengthening my foundations in web development and programming.
+A programmer on the path to becoming a Full-Stack Developer. I am currently learning and strengthening my foundations in web development and programming.
 
 ---
 
