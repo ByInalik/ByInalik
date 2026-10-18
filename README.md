@@ -1,24 +1,42 @@
-### Hi, I'm Inalik 👋
+<!-- Título animado con color Blanco (FFFFFF) -->
+<div align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&width=500&lines=Hey+What's+up%3F%3F+I'm+Inalik" alt="Typing SVG" />
+  </a>
+</div>
 
-A programmer on the path to becoming a Full-Stack Developer. I am currently learning and strengthening my foundations in web development and programming.
+<!-- GIF alineado a la derecha (Recuerda reemplazar el enlace por el Raw de tu repo) -->
+<img align="right" height="150" alt="giphy" src="AQUI_PEGA_TU_ENLACE_RAW_DEL_GIF.gif" />
 
----
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <!-- Logo de Photoshop -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" height="30" alt="photoshop logo"  />
+</div>
 
-### Languages and Tools
+###
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
-  <img src="https://jsorg.gallerycdn.vsassets.io/extensions/jsorg/adobe-photoshop-icon-theme/1.0.1/1620739343355/Microsoft.VisualStudio.Services.Icons.Default" alt="photoshop" width="50" height="50"/>
-</p>
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
----
+###
 
-### 2026 Goals
+<br clear="both">
 
-- [ ] Master JavaScript logic and manipulation of the DOM
-- [ ] Build stable and functional responsive web pages
-- [ ] Complete my first repository integration with Git and GitHub
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ByInalik/ByInalik/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ByInalik/ByInalik/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ByInalik/ByInalik/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
