@@ -1,10 +1,11 @@
-<!-- 1. EL GIF (Alineado a la derecha) -->
+<!-- 1. EL GIF -->
 <img align="right" height="150" alt="Jake el Perro" src="https://media.giphy.com/media/3C55oUiJteHW8/giphy.gif" />
 
-<!-- 2. TÍTULO ANIMADO -->
+<!-- 2. TÍTULO CON FUENTE PERSONALIZADA (SVG) -->
+<!-- Usamos 'pause=100000' para que escriba la frase una vez y se quede quieta -->
 <div align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&width=500&lines=Hey+What's+up%3F%3F+I'm+Inalik" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=10000000&color=FFFFFF&width=350&lines=Hey+I'm+Inalik" alt="Hey I'm Inalik" />
   </a>
 </div>
 
